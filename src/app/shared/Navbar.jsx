@@ -42,7 +42,7 @@ export default function Navbar() {
                 {/* Logo */}
                 <div >
                     <Link href="/">
-                        <p className="text-xl lg:text-2xl font-semibold text-[#00c5ff]">বাংলা বাজী</p>
+                        <p className="text-xl lg:text-2xl font-semibold text-[#00c5ff]">Zaiqel Arveen</p>
                     </Link>
                 </div>
 
